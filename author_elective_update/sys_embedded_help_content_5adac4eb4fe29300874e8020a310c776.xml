@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_embedded_help_content action="DELETE">
+<active>true</active>
+<category>reporting</category>
+<content><![CDATA[ <h1 class="title topictitle1">Interactive Filters list</h1>  <div class="body conbody">  <div class="p"><span class="ph">Interactive Filters allow you to filter   report widgets directly from a homepage or dashboard without modifying the   reports.</span>      <ol class="ol" id="sys_ui_hp_publisher_list-normal__ol_yzz_p4l_d1b"><li class="li"><span class="ph">Click the column headers to search, sort, filter, and    edit data. </span></li><li class="li">Click <span class="ph uicontrol">New</span> to create a new interactive filter.<p class="p">The              <span class="ph uicontrol">Interactive Filters</span> list has the following columns:</p></li></ol></div>  <div class="p">      <ul class="ul" id="sys_ui_hp_publisher_list-normal__ul_ft3_qtj_dz"><li class="li"><span class="ph uicontrol">Look up name</span>: The look up name for the filter. This name appears          in the <span class="ph uicontrol">Add content</span> menu for users adding a filter to a homepage or          dashboard. Use this name to help organize your filters. If no look up name is specified,          the Name value is used instead. Updated The date and time the filter was last          modified.</li><li class="li"><span class="ph uicontrol">Name</span>: The name of the filter. <span class="ph">This                                            name appears on the dashboard widget for the                                            filter.</span></li><li class="li"><span class="ph uicontrol">Description</span>: The description entered by the filter&#39;s          creator.</li><li class="li"><span class="ph uicontrol">Filter based on</span>: The field type the filter is based on.</li><li class="li"><span class="ph uicontrol">UI control type</span>: How the available filtering options for this          filter appear on the dashboard.</li><li class="li"><span class="ph uicontrol">Updated</span>: The date and time the filter was last modified.</li></ul>    </div> </div>  <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:available-interactive-filter-types&amp;version&#61;kingston" target="_blank">Available Interactive Filter types</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:available-interactive-filter-ui-control-types&amp;version&#61;kingston" target="_blank">Available interactive filter UI control types</a></div></div></div></div>]]></content>
+<last_sync>2018-06-29 19:10:57</last_sync>
+<modifier>normal</modifier>
+<name>sys_ui_hp_publisher_list-normal</name>
+<page>sys_ui_hp_publisher_list</page>
+<product>1</product>
+<qualifier/>
+<role display_value=""/>
+<role_order>1000</role_order>
+<snc_created>false</snc_created>
+<sys_class_name>sys_embedded_help_content</sys_class_name>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2018-06-13 02:48:06</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>5adac4eb4fe29300874e8020a310c776</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>sys_ui_hp_publisher_list-normal</sys_name>
+<sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+<sys_policy/>
+<sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+<sys_update_name>sys_embedded_help_content_5adac4eb4fe29300874e8020a310c776</sys_update_name>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2018-06-29 19:10:57</sys_updated_on>
+<version>k</version>
+</sys_embedded_help_content>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>619ebf6cdbec3b003050ac44d49619fc</instance_id>
+        <instance_name>dev77761</instance_name>
+        <name>sys_embedded_help_content_5adac4eb4fe29300874e8020a310c776</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_embedded_help_content action="INSERT_OR_UPDATE"&gt;
+&lt;active&gt;true&lt;/active&gt;
+&lt;category&gt;reporting&lt;/category&gt;
+&lt;content&gt;&lt;![CDATA[ &lt;h1 class="title topictitle1"&gt;Interactive Filters list&lt;/h1&gt;  &lt;div class="body conbody"&gt;  &lt;div class="p"&gt;&lt;span class="ph"&gt;Interactive Filters allow you to filter   report widgets directly from a homepage or dashboard without modifying the   reports.&lt;/span&gt;      &lt;ol class="ol" id="sys_ui_hp_publisher_list-normal__ol_yzz_p4l_d1b"&gt;&lt;li class="li"&gt;&lt;span class="ph"&gt;Click the column headers to search, sort, filter, and    edit data. &lt;/span&gt;&lt;/li&gt;&lt;li class="li"&gt;Click &lt;span class="ph uicontrol"&gt;New&lt;/span&gt; to create a new interactive filter.&lt;p class="p"&gt;The              &lt;span class="ph uicontrol"&gt;Interactive Filters&lt;/span&gt; list has the following columns:&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;  &lt;div class="p"&gt;      &lt;ul class="ul" id="sys_ui_hp_publisher_list-normal__ul_ft3_qtj_dz"&gt;&lt;li class="li"&gt;&lt;span class="ph uicontrol"&gt;Look up name&lt;/span&gt;: The look up name for the filter. This name appears          in the &lt;span class="ph uicontrol"&gt;Add content&lt;/span&gt; menu for users adding a filter to a homepage or          dashboard. Use this name to help organize your filters. If no look up name is specified,          the Name value is used instead. Updated The date and time the filter was last          modified.&lt;/li&gt;&lt;li class="li"&gt;&lt;span class="ph uicontrol"&gt;Name&lt;/span&gt;: The name of the filter. &lt;span class="ph"&gt;This                                            name appears on the dashboard widget for the                                            filter.&lt;/span&gt;&lt;/li&gt;&lt;li class="li"&gt;&lt;span class="ph uicontrol"&gt;Description&lt;/span&gt;: The description entered by the filter&amp;#39;s          creator.&lt;/li&gt;&lt;li class="li"&gt;&lt;span class="ph uicontrol"&gt;Filter based on&lt;/span&gt;: The field type the filter is based on.&lt;/li&gt;&lt;li class="li"&gt;&lt;span class="ph uicontrol"&gt;UI control type&lt;/span&gt;: How the available filtering options for this          filter appear on the dashboard.&lt;/li&gt;&lt;li class="li"&gt;&lt;span class="ph uicontrol"&gt;Updated&lt;/span&gt;: The date and time the filter was last modified.&lt;/li&gt;&lt;/ul&gt;    &lt;/div&gt; &lt;/div&gt;  &lt;div class="related-links"&gt;&lt;div class="relinfo"&gt;&lt;div class="reltitle"&gt;Related information&lt;br /&gt;&lt;div&gt;&lt;a class="link" href="https://docs.servicenow.com/?context&amp;#61;CSHelp:available-interactive-filter-types&amp;amp;version&amp;#61;kingston" target="_blank"&gt;Available Interactive Filter types&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a class="link" href="https://docs.servicenow.com/?context&amp;#61;CSHelp:available-interactive-filter-ui-control-types&amp;amp;version&amp;#61;kingston" target="_blank"&gt;Available interactive filter UI control types&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;]]&gt;&lt;/content&gt;
+&lt;last_sync&gt;2018-06-29 19:10:57&lt;/last_sync&gt;
+&lt;modifier&gt;normal&lt;/modifier&gt;
+&lt;name&gt;sys_ui_hp_publisher_list-normal&lt;/name&gt;
+&lt;page&gt;sys_ui_hp_publisher_list&lt;/page&gt;
+&lt;product&gt;1&lt;/product&gt;
+&lt;qualifier/&gt;
+&lt;role display_value=""/&gt;
+&lt;role_order&gt;1000&lt;/role_order&gt;
+&lt;snc_created&gt;false&lt;/snc_created&gt;
+&lt;sys_class_name&gt;sys_embedded_help_content&lt;/sys_class_name&gt;
+&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;
+&lt;sys_created_on&gt;2018-06-13 02:48:06&lt;/sys_created_on&gt;
+&lt;sys_domain&gt;global&lt;/sys_domain&gt;
+&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+&lt;sys_id&gt;5adac4eb4fe29300874e8020a310c776&lt;/sys_id&gt;
+&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+&lt;sys_name&gt;sys_ui_hp_publisher_list-normal&lt;/sys_name&gt;
+&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;
+&lt;sys_policy/&gt;
+&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;
+&lt;sys_update_name&gt;sys_embedded_help_content_5adac4eb4fe29300874e8020a310c776&lt;/sys_update_name&gt;
+&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;
+&lt;sys_updated_on&gt;2018-06-29 19:10:57&lt;/sys_updated_on&gt;
+&lt;version&gt;k&lt;/version&gt;
+&lt;/sys_embedded_help_content&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>145438346</payload_hash>
+        <record_name>sys_ui_hp_publisher_list-normal</record_name>
+        <reverted_from/>
+        <source>e5679dad2f313010a81b532a2799b6bc</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 13:11:13</sys_created_on>
+        <sys_id>76cd24752f313010a81b532a2799b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b1b96d12b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 13:11:13</sys_updated_on>
+        <type>Embedded Help</type>
+        <update_guid>becd24751c3130100c243afbc7634d1a</update_guid>
+        <update_guid_history>becd24751c3130100c243afbc7634d1a:145438346,72b4ae3e9e110010d87af4dc1789cb66:0,5adb38dc7614001051cec9765ff1bc2d:1298658633</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 13:11:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_help_content">sys_embedded_help_content</sys_db_object>
+        <sys_id>1b63fc7ca962438d8386240105e75489</sys_id>
+        <sys_metadata>5adac4eb4fe29300874e8020a310c776</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ui_hp_publisher_list-normal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_embedded_help_content_5adac4eb4fe29300874e8020a310c776</sys_update_name>
+        <sys_update_version display_value="sys_embedded_help_content_5adac4eb4fe29300874e8020a310c776">76cd24752f313010a81b532a2799b61b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 13:11:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
